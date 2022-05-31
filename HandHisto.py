@@ -3,7 +3,7 @@ import numpy as np
 import pickle
   
 def build_squares(img):  
-	x, y, w, h = 420, 140, 10, 10  
+	x, y, w, h = 420, 140, 10, 10   
 	d = 10  
 	imgCrop = None  
 	crop = None 
