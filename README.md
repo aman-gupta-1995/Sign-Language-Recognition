@@ -3,7 +3,7 @@
 <h2>Dependencies:</h2>
   <p>1. Tensorflow</p>
   <p>2. Keras</p>
-  <p>3. OpenCV</p>
+  <p>3. OpenCV</p> 
   
   
 <h3>Dataset:</h3>
