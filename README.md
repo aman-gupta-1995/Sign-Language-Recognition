@@ -8,7 +8,7 @@
   
 <h3>Dataset:</h3>  
 <link>https://www.kaggle.com/datamunge/sign-language-mnist</link> 
- 
+  
 <h3>Tools:</h3> 
   <p>Google Colab</p> 
 
