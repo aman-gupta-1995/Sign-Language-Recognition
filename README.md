@@ -10,7 +10,7 @@
 <link>https://www.kaggle.com/datamunge/sign-language-mnist</link>
  
 <h3>Tools:</h3> 
-  <p>Google Colab</p>
+  <p>Google Colab</p> 
 
 <h2>How to run</h2>
 <p>Run ROIinOpenCV.py</p>
