@@ -6,7 +6,7 @@
 # Installing Tensorflow
 # Install Tensorflow from the website: https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html
 
-# Installing Keras
+# Installing Keras 
 # pip install --upgrade keras
 
 # Part 1 - Building the CNN
