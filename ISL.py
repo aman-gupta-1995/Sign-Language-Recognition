@@ -10,7 +10,7 @@ cv2.imshow('threshold',threshold)
 edges = cv2.Canny(threshold,100,200) 
  
 cv2.imshow('Edges',edges)
-
+ 
 converted = cv2.cvtColor(cap, cv2.COLOR_BGR2HSV)
 skinMask = cv2.inRange(converted, lower, upper)
 
