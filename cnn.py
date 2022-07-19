@@ -1,6 +1,6 @@
 # Convolutional Neural Network 
 
-# Installing Theano 
+# Installing Theano  
 # pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git      
        
 # Installing Tensorflow 
