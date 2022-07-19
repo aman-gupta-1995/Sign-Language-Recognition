@@ -1,5 +1,5 @@
 import cv2
-import numpy as np
+import numpy as np 
 import pickle
   
 def build_squares(img):   
