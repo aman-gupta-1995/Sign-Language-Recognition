@@ -26,7 +26,7 @@ def build_squares(img):
 	return crop
 
 def get_hand_hist():
-	cam = cv2.VideoCapture(1)
+	cam = cv2.VideoCapture(1) 
 	if cam.read()[0]==False:
 		cam = cv2.VideoCapture(0)
 	x, y, w, h = 300, 100, 300, 300
