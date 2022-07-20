@@ -9,7 +9,7 @@ def get_square(image, square_size):
        
     height, width = image.shape    
     if(height > width):
-      differ = height
+      differ = height 
     else:
       differ = width
     differ += 4
