@@ -32,7 +32,7 @@ def get_square(image, square_size):
 
 
 def keras_predict(model, image):
-    data = np.asarray( image, dtype="int32" )
+    data = np.asarray( image, dtype="int32" ) 
     
     pred_probab = model.predict(data)[0]
     pred_class = list(pred_probab).index(max(pred_probab))
