@@ -5,7 +5,7 @@ import pickle
 def build_squares(img):    
 	x, y, w, h = 420, 140, 10, 10       
 	d = 10     
-	imgCrop = None  
+	imgCrop = None   
 	crop = None  
 	for i in range(10): 
 		for j in range(5):
