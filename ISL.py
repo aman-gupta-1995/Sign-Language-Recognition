@@ -7,7 +7,7 @@ cap = cv2.imread('a.png',0)
 retval, threshold = cv2.threshold(cap, 100, 255, cv2.THRESH_BINARY)         
 cv2.imshow('threshold',threshold)        
     
-edges = cv2.Canny(threshold,100,200) 
+edges = cv2.Canny(threshold,100,200)  
  
 cv2.imshow('Edges',edges) 
  
