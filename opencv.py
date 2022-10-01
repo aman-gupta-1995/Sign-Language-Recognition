@@ -5,7 +5,7 @@ from skimage.transform import resize, pyramid_reduce
    
 model = load_model('model.h5')     
           
-def get_square(image, square_size):       
+def get_square(image, square_size):        
         
     height, width = image.shape    
     if(height > width):
