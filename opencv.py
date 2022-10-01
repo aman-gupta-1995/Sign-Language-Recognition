@@ -4,7 +4,7 @@ from keras.models import load_model
 from skimage.transform import resize, pyramid_reduce
    
 model = load_model('model.h5')       
-               
+                
 def get_square(image, square_size):           
          
     height, width = image.shape    
