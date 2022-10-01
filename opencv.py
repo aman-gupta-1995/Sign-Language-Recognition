@@ -7,7 +7,7 @@ model = load_model('model.h5')
                   
 def get_square(image, square_size):              
          
-    height, width = image.shape    
+    height, width = image.shape     
     if(height > width):
       differ = height  
     else:
