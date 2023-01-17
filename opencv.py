@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from keras.models import load_model
-from skimage.transform import resize, pyramid_reduce
+from skimage.transform import resize, pyramid_reduce 
     
 model = load_model('model.h5')                
                       
